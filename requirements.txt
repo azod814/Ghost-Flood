@@ -1,6 +1,2 @@
-
-
-
-pyfiglet==0.8.post1 termcolor==2.4.0
-
-
+pyfiglet==0.8.post1
+termcolor==2.4.0
