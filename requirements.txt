@@ -1,5 +1,6 @@
 
-pip install pyfiglet termcolor
+
 
 pyfiglet==0.8.post1 termcolor==2.4.0
+
 
