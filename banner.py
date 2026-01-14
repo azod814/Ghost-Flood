@@ -1,5 +1,6 @@
 import pyfiglet
 from termcolor import colored
+import os  # <-- YE LINE ADD KAR DIYA, BAS ITNA HI KAAM THA
 
 def show_banner():
     # Clear screen
